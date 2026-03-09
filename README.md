@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-*(Note: Replace these with the actual technologies you are learning/using)*
+
 
 **Languages:**
 <br>
